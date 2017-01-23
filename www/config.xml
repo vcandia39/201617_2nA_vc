@@ -3,8 +3,8 @@
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "cat.numancia.sistema_solar_scb"
-        versionCode = "3" 
-        version     = "0.0.03" >
+        versionCode = "1" 
+        version     = "0.0.01" >
 	
 	<!-- versionCode is optional and Android only -->
 
@@ -13,11 +13,11 @@
    <name>Sistema Solar</name>
 
    <description>
-       Sistema Solar de 2n d'ESO B fet per Sergi Curtu
+       Sistema Solar de 2n d'ESO A fet per Victoria Candia
     </description>
 
     <author href="https://numancia.cat/intranet" email="sergi.curtu@numancia.cat">
-       Sergi Curtu
+       Victoria Candia
     </author>
 
 	<content src="index.html"/>
